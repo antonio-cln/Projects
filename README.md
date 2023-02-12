@@ -7,7 +7,7 @@ A hypothetical company is looking to convert all their customers into annual mem
 ## Analysis of an activity tracker company
 A hypotetical company that manufactures health-focused smart products asked to analyze smart device usage data in order to gain insight on how people already use smart devices. By using this information the company is looking for recommendations that would help its marketing strategy.  
 **Tools**: Python  
- 
+**Code**: [`activity_tracking.html`](https://antonio-cln.github.io/Projects/activity_tracking/activity_tracking.html) 
 ## Visualization of a game items' statistics gold efficiency
 A viz created for the purpose of comparing a game items statistics and allowing the user to quickly compare several items offering the same statistics through the use of drop down menus.  
 **Tools**: Tableau  
